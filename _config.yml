@@ -1,12 +1,12 @@
-
+﻿
 # Site settings
-title: 爱吃土豆 Blog
-SEOTitle: 爱吃土豆的博客
+title: 灰灰点点 Blog
+SEOTitle: 灰灰点点的博客
 header-img: img/home-bg.jpg
 email: wsd_j2@126.com
 description: "一个小学生 | 王思达 | 希望能做出一点东西"
 keyword: "王思达, 爱吃土豆, 王思达的博客, 王思达 Blog, 博客, 互联网, 深度学习, 图像处理"
-url: "https://aichitudou.github.io"              
+url: "https://huch3.github.io"              
 baseurl: ""                            # for example, '/blog' if your blog hosted on 'host/blog'
 
 
