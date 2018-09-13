@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Welcome To Huch3's Blog" 
+title:      "Welcome To Neal's Blog" 
 subtitle:   ""
-author:     "huch3"
+author:     "neal"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
