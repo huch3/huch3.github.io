@@ -52,7 +52,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "提高自己的工程能力"
+sidebar-about-description: "悟道休言天命，修行直取真经"
 sidebar-avatar: /img/avatar-tudou.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
