@@ -3,7 +3,7 @@ layout:     post
 title:      "OracleORA-01722: invalid number" 
 subtitle:   ""
 author:     "neal"
-header-img: "img/post_girl.jpg"
+header-img: "img/post-bg-universe.jpg"
 catalog: true
 tags:
     - OracleORA-01722
